@@ -1,0 +1,6 @@
+method          iteration            root 
+bisection  	 	 19   	 	 4.12310600281 
+false pos  	 	 7   	 	 4.12310556554 
+newton   	 	 3   	 	 4.12310568569 
+sacent  	 	 8   	 	 4.12310556554 
+mullers  	 	 1   	 	 4.12310556554 
