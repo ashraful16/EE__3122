@@ -1,6 +1,0 @@
-value      erroriteration
-bisection  	 	 19 
-false pos  	 	 7 
-newton   	 	 3 
-sacent  	 	 8 
-mullers  	 	 1 
